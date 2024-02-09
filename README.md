@@ -14,5 +14,7 @@
 
 ## Files
 
+- [`/publishing.xml`](https://slashreading.org) - Outlines all of the Atom/RSS feeds that the person is responsible for.
+- [`/reading.xml`](https://slashreading.org) - Outlines all of the unauthenticated Atom/RSS feeds that the person consumes in their feed reader.
 - [`/robots.txt`](https://www.robotstxt.org) - Gives instructions about the person's website to web robots.
 - [`/security.txt`, `/.well-known/security.txt`](https://securitytxt.org) - Allows security researchers to easily get in touch with companies about security issues.
