@@ -5,8 +5,13 @@
 ## Contents
 
 - [Pages](#pages)
+- [Files](#files)
 
 ## Pages
 
 - [`/now`](https://nownownow.com) - Explains what the person is focused on at this point in their life.
 - [`/uses`](https://uses.tech) - Details developer setups, gear, software, and configs.
+
+## Files
+
+- [`/robots.txt`](https://www.robotstxt.org) - Gives instructions about the person's website to web robots.
