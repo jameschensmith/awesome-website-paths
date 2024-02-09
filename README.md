@@ -15,3 +15,4 @@
 ## Files
 
 - [`/robots.txt`](https://www.robotstxt.org) - Gives instructions about the person's website to web robots.
+- [`/security.txt`, `/.well-known/security.txt`](https://securitytxt.org) - Allows security researchers to easily get in touch with companies about security issues.
