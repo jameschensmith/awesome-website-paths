@@ -9,6 +9,7 @@
 
 ## Pages
 
+- [`/about`](https://aboutideasnow.com) - Provides information on the company, organization, or person.
 - [`/ideas`](https://aboutideasnow.com) - Details what the person would like to work on in the future.
 - [`/now`](https://nownownow.com) - Explains what the person is focused on at this point in their life.
 - [`/purpose`](https://slashpurpose.org) - Explains the "why" behind the website's "what".
