@@ -18,7 +18,6 @@
 
 ## Files
 
-- [`/sitemap.txt`, `/sitemap.xml`](https://en.wikipedia.org/wiki/Site_map)
 - [`/publishing.xml`](https://slashreading.org) - Outlines all of the Atom/RSS feeds that the person is responsible for.
 - [`/reading.xml`](https://slashreading.org) - Outlines all of the unauthenticated Atom/RSS feeds that the person consumes in their feed reader.
 - [`/robots.txt`](https://www.robotstxt.org) - Gives instructions about the person's website to web robots.
