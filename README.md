@@ -14,6 +14,7 @@
 - [`/now`](https://nownownow.com) - Explains what the person is focused on at this point in their life.
 - [`/purpose`](https://slashpurpose.org) - Explains the "why" behind the website's "what".
 - [`/uses`](https://uses.tech) - Details developer setups, gear, software, and configs.
+- [`/wish`](https://taylor.town/wish-manifesto) - Highlights openly sought items/experiences/charities.
 
 ## Files
 
