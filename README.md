@@ -23,3 +23,4 @@
 - [`/reading.xml`](https://slashreading.org) - Outlines all of the unauthenticated Atom/RSS feeds that the person consumes in their feed reader.
 - [`/robots.txt`](https://www.robotstxt.org) - Gives instructions about the person's website to web robots.
 - [`/security.txt`, `/.well-known/security.txt`](https://securitytxt.org) - Allows security researchers to easily get in touch with companies about security issues.
+- [`/sitemap.xml`](https://sitemaps.org) - Lists all the pages on a website (useful for crawlers and external integration).
