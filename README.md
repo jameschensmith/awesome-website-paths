@@ -16,7 +16,7 @@
 - [`/uses`](https://uses.tech) - Details developer setups, gear, software, and configs.
 - [`/wish`](https://taylor.town/wish-manifesto) - Highlights openly sought items/experiences/charities.
 - [`/intractable`](https://www.autodidacts.io/intractable) - Lists problems the author has attempted to figure out (without success), and knowledge they could trade in return.
- 
+
 ## Files
 
 - [`/humans.txt`](https://humanstxt.org) - Contains information about the different people who have contributed to building the website.
