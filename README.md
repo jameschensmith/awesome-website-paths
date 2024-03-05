@@ -15,6 +15,7 @@
 - [`/purpose`](https://slashpurpose.org) - Explains the "why" behind the website's "what".
 - [`/uses`](https://uses.tech) - Details developer setups, gear, software, and configs.
 - [`/wish`](https://taylor.town/wish-manifesto) - Highlights openly sought items/experiences/charities.
+- [`/intractable`](https://www.autodidacts.io/intractable) - Lists problems the author has attempted to figure out (without success), and knowledge they could trade in return.
 
 ## Files
 
